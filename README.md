@@ -6,7 +6,7 @@ I'm a Researcher with a passion for programming. I enjoy coding and am always ea
 
 ## Skills
 
-- Programming Languages: Assembly language, C++, Java, Python, R
+- Programming Languages: Python, R, Java, C++, Assembly language
 - Web Development: Laravel
 - Mobile Development: Ionic, Flutter
 - Data Science: Tensorflow, Pytorch, Pandas, OpenCV, Scikit Learn
