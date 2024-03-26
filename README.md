@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Researcher with a passion for Programming. I enjoy coding and am always eager to learn more. 
+I'm a Researcher with a passion for programming. I enjoy coding and am always eager to learn more. 
 
 ## Skills
 
